@@ -20,3 +20,7 @@ Beginners learning Java file handling
 Mini-projects or assignments
 CLI-based file manipulation tasks
 The application uses object-oriented principles, exception handling, and buffered streams to ensure efficient and reliable file operations.
+
+OUTPUT:
+
+<img width="1024" height="1024" alt="Image" src="https://github.com/user-attachments/assets/cf10fa90-cfbb-4477-94fc-4280678feda5" />
